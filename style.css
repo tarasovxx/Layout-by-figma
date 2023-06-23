@@ -100,6 +100,7 @@ html, body, #wrap, #header_wrapper, #bg_video_wrapper, #header {
   align-self: end;
 }
 #header_wrapper #header #header_info .apply_button button {
+  cursor: pointer;
   padding: 20px 36px 20px 36px;
   background: unset;
   border: 2px solid #FFFFFF;
