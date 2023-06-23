@@ -1,0 +1,1 @@
+![For example](/img/example.png)
